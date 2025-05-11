@@ -718,6 +718,63 @@ MonoBehaviour:
   button: {fileID: 1761270250}
   Resumebutton: {fileID: 1081157100782963591}
   toggle: {fileID: 1081157100782963590}
+--- !u!1001 &1191587292
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414113860816913066, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8057134752475352339, guid: 416a982983d38c14ea14550a138db31e, type: 3}
+      propertyPath: m_Name
+      value: Shooting pad (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 416a982983d38c14ea14550a138db31e, type: 3}
 --- !u!1 &1191843900 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 177439071004741799, guid: a59afcd22d796fb4ba959ec8230986bd, type: 3}
@@ -1653,6 +1710,7 @@ SceneRoots:
   - {fileID: 121311163}
   - {fileID: 463375330}
   - {fileID: 1004356402}
+  - {fileID: 1191587292}
   - {fileID: 1081157100782963589}
   - {fileID: 1901030953}
   - {fileID: 1598320017}
